@@ -1,5 +1,5 @@
-# Docker_Projects
-this repo is for all the docker labs/projects 
+# Docker_Project1
+
 
 
 This projects walk us through on how to write a Dockerfile from code,build the docker image from Dockerfile and create a container using docker image 
