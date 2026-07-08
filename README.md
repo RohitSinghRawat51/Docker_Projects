@@ -12,7 +12,8 @@ STEP2 -> Open app.py and write a simple flask application
 
 		command => vi app.py 
 
-	 <img width="573" height="275" alt="Screenshot 2026-07-07 195509" src="https://github.com/user-attachments/assets/3e154c45-fe3c-4aa7-a2ab-9c1b5b9714bd" />
+<img width="573" height="275" alt="Screenshot 2026-07-07 195509" src="https://github.com/user-attachments/assets/f62fde4b-756d-462a-9765-f075491fad97" />
+
 
 STEP 3 : Open requirements.txt and write dependencies  for app.py  to run  
 
@@ -20,8 +21,9 @@ STEP 3 : Open requirements.txt and write dependencies  for app.py  to run
 
 
 
+<img width="332" height="216" alt="Screenshot 2026-07-07 195543" src="https://github.com/user-attachments/assets/b526a81f-f5b5-4726-bff4-edddc9e2bf70" />
 
-<img width="332" height="216" alt="Screenshot 2026-07-07 195543" src="https://github.com/user-attachments/assets/77ed5b76-1f48-4246-b9cb-a81ff7443105" />
+
 
  
 
@@ -51,27 +53,28 @@ CMD is used so when container will run we want to run the app.py inside the cont
 
 Step 5: Run the docker build command to build docker image from docker file 
 
- <img width="735" height="112" alt="Screenshot 2026-07-07 195745" src="https://github.com/user-attachments/assets/e47a37f1-bd52-408b-8cf8-4950902feb3a" />
+<img width="932" height="667" alt="Screenshot 2026-07-07 195645" src="https://github.com/user-attachments/assets/da871a8a-f2c7-41ce-be8b-8ec6e5008cc7" />
 
 
 Step 6: check the image is build or not  
 
- <img width="735" height="112" alt="Screenshot 2026-07-07 195745" src="https://github.com/user-attachments/assets/1b623402-70f0-4e5b-bac2-dca926af3d4d" />
+<img width="735" height="112" alt="Screenshot 2026-07-07 195745" src="https://github.com/user-attachments/assets/a1703585-d9c9-451e-87b1-32cf8c587040" />
+
 
 
 Step 7: run the docker image to create the container 
 
- <img width="1067" height="22" alt="Screenshot 2026-07-07 200039" src="https://github.com/user-attachments/assets/e74ed15d-3aab-4508-ab21-dd08018615b0" />
+<img width="1067" height="22" alt="Screenshot 2026-07-07 200039" src="https://github.com/user-attachments/assets/c2060eda-273c-4fbe-b690-3e45a1a8b427" />
 
 
 STEP 8: check if container is running or not 
-
- <img width="1496" height="67" alt="Screenshot 2026-07-07 200011" src="https://github.com/user-attachments/assets/e97e9c9f-13c2-444a-b7e9-fbbf9300fcaf" />
+<img width="1496" height="67" alt="Screenshot 2026-07-07 200011" src="https://github.com/user-attachments/assets/4c9c1b37-742f-4404-aaba-f47a432a093f" />
 
 
 STEP 9: visit http://localhost:5000 to see the output  
 
- <img width="655" height="166" alt="Screenshot 2026-07-07 200052" src="https://github.com/user-attachments/assets/d73379c9-6979-4924-b235-07f7d3ca3a7b" />
+ <img width="655" height="166" alt="Screenshot 2026-07-07 200052" src="https://github.com/user-attachments/assets/0fa14973-8d77-46d6-9d89-285b72c28810" />
+
 
 
  
